@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello World";
+        return "Welcome to my back end application";
     }
 }
